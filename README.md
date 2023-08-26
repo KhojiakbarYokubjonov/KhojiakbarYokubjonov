@@ -1,14 +1,11 @@
-### Hi there 👋
-
-👋 Hi, my name is **Khojiakbar Yokubjonov** and I'm a **junior** at the UofA \
-🧠 I am currently learning Mobile App Development \
+<img height="200" src="https://github.com/KhojiakbarYokubjonov/KhojiakbarYokubjonov/assets/103787690/c9c5de8d-b150-458e-88d1-fd0f0de76631)"> \
+👋 My name is **Khojiakbar Yokubjonov** and I'm a **senior** at the University of Arizona \
+❤️ I love writing software programs \
 🌱 Here, you can find some of my personal projects \
 📫 You can reach me at khyokubjonov@gmail.com
 
 ---
 ### Tech Stack : 
-![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -22,6 +19,12 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-DBA132?style=for-the-badge&logo=oracle&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+
+#### Learning :
+![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Mobile Development](https://img.shields.io/badge/Mobile%20Development-007ACC?style=for-the-badge&logo=apple&logoColor=white)
 
 
 
