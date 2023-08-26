@@ -8,8 +8,8 @@
 ---
 ### :fire: My Stats :
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img height="160px" style="margin:120px;" src="http://github-readme-streak-stats.herokuapp.com?user=KhojiakbarYokubjonov&theme=dark&background=000000" />
-    <img height="160px"  style="margin: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhojiakbarYokubjonov&layout=compact&theme=dark&background=000000" />
+    <img height="180px" style="margin:20px;" src="http://github-readme-streak-stats.herokuapp.com?user=KhojiakbarYokubjonov&theme=dark&background=000000" />
+    <img height="180px"  style="margin: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhojiakbarYokubjonov&layout=compact&theme=dark&background=000000" />
 </div>
 
 
