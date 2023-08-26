@@ -7,5 +7,9 @@
 
 ---
 ### :fire: My Stats :
-<img align=center src="http://github-readme-streak-stats.herokuapp.com?user=KhojiakbarYokubjonov&theme=dark&background=000000">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhojiakbarYokubjonov&layout=compact&theme=dark&background=000000">
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img height="200" align="center" style="margin-right: 50px;" src="http://github-readme-streak-stats.herokuapp.com?user=KhojiakbarYokubjonov&theme=dark&background=000000" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhojiakbarYokubjonov&layout=compact&theme=dark&background=000000" />
+</div>
+
