@@ -1,5 +1,5 @@
 <img height="200" src="https://github.com/KhojiakbarYokubjonov/KhojiakbarYokubjonov/assets/103787690/c9c5de8d-b150-458e-88d1-fd0f0de76631)"> \
-👋 My name is **Khojiakbar Yokubjonov** and I'm a **senior** at the University of Arizona \
+👋 My name is **Khojiakbar Yokubjonov** \
 ❤️ I love writing software programs \
 🌱 Here, you can find some of my personal projects \
 📫 You can reach me at khyokubjonov@gmail.com
